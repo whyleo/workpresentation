@@ -34,12 +34,12 @@
 > [兔爷动漫之每周最新闻][7]
 
 ####H5交互页面
-![Alt text](./christmas.png)  ![Alt text](./danxiaogui.png)  ![Alt text](./olympic.png)
+![Alt text](https://github.com/whyleo/workpresentation/blob/master/qrimages/christmas.png)  ![Alt text](https://github.com/whyleo/workpresentation/blob/master/qrimages/danxiaogui.png)  ![Alt text](https://github.com/whyleo/workpresentation/blob/master/qrimages/olympic.png)
 
 
 ####H5交互小应用
 主要使用了canvas的绘图功能。
-![Alt text](./lugouxiaoyue.png)  ![Alt text](./memory.png)  ![Alt text](./painter.png)
+![Alt text](https://github.com/whyleo/workpresentation/blob/master/qrimages/lugouxiaoyue.png)  ![Alt text](https://github.com/whyleo/workpresentation/blob/master/qrimages/memory.png)  ![Alt text](https://github.com/whyleo/workpresentation/blob/master/qrimages/painter.png)
 
 ####demo
 
