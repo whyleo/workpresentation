@@ -29,8 +29,11 @@
 
 #### 一批列表展示页
 > [兔爷动漫之鼻涕疙瘩][4]
+
 > [兔爷动漫之漫说新语][5]
+
 > [兔爷动漫之大课堂][6]
+
 > [兔爷动漫之每周最新闻][7]
 
 ####H5交互页面
@@ -39,6 +42,7 @@
 
 ####H5交互小应用
 主要使用了canvas的绘图功能。
+
 ![Alt text](https://github.com/whyleo/workpresentation/blob/master/qrimages/lugouxiaoyue.png)  ![Alt text](https://github.com/whyleo/workpresentation/blob/master/qrimages/memory.png)  ![Alt text](https://github.com/whyleo/workpresentation/blob/master/qrimages/painter.png)
 
 ####demo
